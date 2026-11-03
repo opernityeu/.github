@@ -27,4 +27,6 @@ Early access opens company by company: [opernity.eu](https://opernity.eu)
 - Sales: [sales@opernity.eu](mailto:sales@opernity.eu)
 - Security: [security@opernity.eu](mailto:security@opernity.eu)
 
+Follow us on [X](https://x.com/opernityeu) and [Instagram](https://www.instagram.com/opernityeu): @opernityeu
+
 <sub>Opernity is made by Roundly Consulting s.r.o. Screens show sample data.</sub>
