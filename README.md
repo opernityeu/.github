@@ -1,7 +1,9 @@
-# opernityeu/.github
+# Opernity
 
-The public profile of the [Opernity](https://opernity.eu) organisation on GitHub. `profile/README.md` is shown on
-github.com/opernityeu.
+Approvals, deadlines and documents in one place. Operations and governance for companies and company groups.
 
-The hero image is rendered from the Opernity marketing sources (`design/marketing/src/social.html`, size `github`,
-1280 × 640 at 2×). Regenerate it there after a brand change.
+This repository holds the public profile of Opernity on GitHub.
+
+- Website: [opernity.eu](https://opernity.eu)
+- X: [@opernityeu](https://x.com/opernityeu)
+- Contact: [sales@opernity.eu](mailto:sales@opernity.eu)

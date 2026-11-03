@@ -1,4 +1,4 @@
-![Opernity. Approvals, deadlines and documents in one place.](opernity-hero.png)
+![Opernity. Approvals, deadlines and documents in one place.](https://raw.githubusercontent.com/opernityeu/.github/main/profile/opernity-hero.png)
 
 # Opernity
 
